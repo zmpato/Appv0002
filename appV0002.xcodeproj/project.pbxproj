@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA285080237241AF0005E801 /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA28507F237241AF0005E801 /* ChecklistItem.swift */; };
 		CAB84AD023442FA300A0224D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB84ACF23442FA300A0224D /* AppDelegate.swift */; };
 		CAB84AD223442FA300A0224D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB84AD123442FA300A0224D /* SceneDelegate.swift */; };
 		CAB84AD423442FA300A0224D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB84AD323442FA300A0224D /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CA28507F237241AF0005E801 /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
 		CAB84ACC23442FA300A0224D /* appV0002.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appV0002.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAB84ACF23442FA300A0224D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAB84AD123442FA300A0224D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				CAB84ACF23442FA300A0224D /* AppDelegate.swift */,
 				CAB84AD123442FA300A0224D /* SceneDelegate.swift */,
 				CAB84AD323442FA300A0224D /* ViewController.swift */,
+				CA28507F237241AF0005E801 /* ChecklistItem.swift */,
 				CAB84AD523442FA300A0224D /* Main.storyboard */,
 				CAB84AD823442FA500A0224D /* Assets.xcassets */,
 				CAB84ADA23442FA500A0224D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				CAB84AD423442FA300A0224D /* ViewController.swift in Sources */,
 				CAB84AD023442FA300A0224D /* AppDelegate.swift in Sources */,
 				CAB84AD223442FA300A0224D /* SceneDelegate.swift in Sources */,
+				CA285080237241AF0005E801 /* ChecklistItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
